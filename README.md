@@ -14,5 +14,4 @@ Procedimentos para utilização
 
 3 - Instalação ocorre de forma automatica.
 
-4 - Acessar o aplicativo e realizar avaliação.
-obs(cenário de avaliação padrão ja vem configurado)
+4 - Acessar o aplicativo e realizar avaliação. Cenário de avaliação padrão vem configurado na aplicação.
