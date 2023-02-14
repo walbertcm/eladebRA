@@ -8,7 +8,8 @@ OBS -
 
 Procedimentos para utilização
 
-1 - Baixe o arquivo eladeb.apk.
+1 - Baixe o arquivo eladebRealidadeAumentada.apk .
+https://1drv.ms/u/s!AlqC2Hduyk2uiNF0WpfrqhP49X4uHg?e=UtV1Pm
 
 2 - Clique no aplicativo.
 
