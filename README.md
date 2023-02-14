@@ -13,6 +13,6 @@ https://1drv.ms/u/s!AlqC2Hduyk2uiNF0WpfrqhP49X4uHg?e=UtV1Pm
 
 2 - Clique no aplicativo.
 
-3 - Instalação ocorre de forma automatica.
+3 - Instalação ocorre de forma automática.
 
-4 - Acessar o aplicativo e realizar avaliação. Cenário de avaliação padrão vem configurado na aplicação.
+4 - Acessar o aplicativo e realizar avaliação do paciente. Um cenário de avaliação padrão vem configurado na aplicação.
